@@ -8,3 +8,4 @@ Passo a passo:
 4. git push -u origin master
 5. Comparando versões
 6.
+7.
