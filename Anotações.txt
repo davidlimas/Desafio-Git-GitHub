@@ -1,0 +1,7 @@
+Projeto Git/GitHub
+
+Passo a passo:
+
+1. git init
+2. git git add
+3. git commit -m
